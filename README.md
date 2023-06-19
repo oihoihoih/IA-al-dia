@@ -22,7 +22,7 @@ El html utilizado sigue el estándar html 5 intentando construir un sitio lo má
 
 - Niveles de información en el sitio web
 El sitio web consta de 4 páginas que muestran 3 niveles de información y estructura:
-	- PRIMER NIVEL: Es la página de inicio del sitio que se corresponde con el archivo index.html. 
+  - PRIMER NIVEL: Es la página de inicio del sitio que se corresponde con el archivo index.html. 
 	- SEGUNDO NIVEL: Son las páginas principales a las que se accede a través del menú principal situado en la cabecera de la web (aplicaciones.html y en-el-cine.html)
 	- TERCER NIVEL: Es la página a la que accedes a través de las páginas de segundo nivel, donde se expande la información (despacho-42.html)
 
