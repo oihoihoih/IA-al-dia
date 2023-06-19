@@ -4,9 +4,9 @@ Ejercicio realizado dentro del master de Desarrollo de sitios y aplicaciones web
 - Organización de archivos
 Los archivos que componen el sitio web están organizados de la siguiente manera:
   - raíz del sitio:
-	  - archivos html
-	  - carpeta "img" donde se almacenarán todas las imágenes
-	  - carpeta "css" donde está el archivo único de la hoja de estilos.
+    - archivos html
+    - carpeta "img" donde se almacenarán todas las imágenes
+    - carpeta "css" donde está el archivo único de la hoja de estilos.
 
 Si se generan nuevas páginas, se tiene que respetar esta estructura. Para añadir otro tipo de archivos (por ejemplo, javascript) se creará una carpeta en la raíz del sitio y dentro de la carpeta irán los archivos correspondientes.
 
